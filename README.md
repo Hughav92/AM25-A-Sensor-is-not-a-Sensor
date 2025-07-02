@@ -1,5 +1,7 @@
 # A Sensor is not a Sensor: Diffracting the Preservation of Sonic Microinteraction with the SiFiBand
 
+![bands](paper/bands.jpg)
+
 An accompanying repository to the paper *A Sensor is not a Sensor: Diffracting the Preservation of Sonic Microinteraction with the SiFiBand* presented at the *AudioMostly* conference 2025. This repository also serves as an archive for the SiFiBand version of *Stillness Under Tension*.
 
 ## Contents
